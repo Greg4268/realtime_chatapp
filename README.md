@@ -1,6 +1,6 @@
-# 📦 Project Name
+# 📦 Real Time Chat App
 
-> _One-sentence summary of your project._  
+> _This application utilizes Flask and WebSocket to bring real time communication between people in a forum-like style_  
 
 ---
 
